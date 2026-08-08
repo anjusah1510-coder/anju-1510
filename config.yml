@@ -2,7 +2,7 @@
 # Customized for Devendra
 
 # Your GitHub username (required)
-username: DEVENDRA-5470
+username: anjusah1510-coder
 
 # Additional GitHub accounts to aggregate stats from (optional)
 additional_accounts: []
@@ -12,23 +12,23 @@ organizations: []
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Devendra"
-  tagline: "Senior DevOps & SRE Engineer | Kubernetes · AWS · CI/CD | Prometheus · Grafana | Python"
-  company: "Independent — Infra & DevOps Training"
-  location: "Faridabad, India"
+  name: "Anju"
+  tagline: "DevOps Engineer | Kubernetes · AWS · CI/CD | Prometheus · Grafana | Python"
+  company: "Legalex service pvt."
+  location: "Dehi, India"
   bio: |
-    Infrastructure engineer with 3.5+ years running production systems —
+    Infrastructure engineer with 2+ years running production systems —
     designing and operating the Kubernetes, CI/CD, and observability stacks
     underneath them. Building self-managed K3s clusters with service mesh
     and GitOps delivery, and zero-trust, keyless CI/CD pipelines on AWS.
-    Also delivers AWS, DevOps, and backend training to engineers.
+    Also delivers AWS, DevOps.
   philosophy: '"Building systems that don''t wake people up at 3am."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "YOUR-EMAIL"
+  email: "anjusah1510@gmail.com"
   linkedin: "YOUR-LINKEDIN-HANDLE"
-  website: "https://blog.devilhai.info"
+  website: ""
 
 # Galaxy arms represent your core focus areas
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
@@ -62,16 +62,16 @@ galaxy_arms:
 
 # Featured projects shown as constellation stars
 projects:
-  - repo: "DEVENDRA-5470/bookvault"
+  - repo: ""
     arm: 0
     description: "Self-managed 3-node K3s cluster with Linkerd service mesh and Jenkins + ArgoCD GitOps delivery."
-  - repo: "DEVENDRA-5470/electronix"
+  - repo: ""
     arm: 1
     description: "Distributed Jenkins CI/CD for a production MERN e-commerce app, zero hardcoded credentials."
-  - repo: "DEVENDRA-5470/simplebank"
+  - repo: ""
     arm: 1
     description: "Zero-SSH, keyless AWS-native CI/CD — OIDC auth, SSM Session Manager, no open SSH port."
-  - repo: "DEVENDRA-5470/iquiz-hub"
+  - repo: ""
     arm: 2
     description: "Production quiz platform on ECS Fargate with a proctored, anti-cheat coding-exam module."
 

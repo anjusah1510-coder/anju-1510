@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Devendra — Infrastructure Engineer"/>
+  <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Anju — Infrastructure Engineer"/>
 </div>
 
 <br/>
