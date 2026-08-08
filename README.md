@@ -44,13 +44,3 @@
 Currently building out service mesh + GitOps delivery on a self-managed K3s cluster, and running production CI/CD for a MERN e-commerce platform on self-hosted Jenkins.
 
 <br/>
-
-## 📁 &nbsp;Case studies
-
-<sub>Each project below is infrastructure I designed, deployed, and operate — written as a case study because the decisions matter more than the tech list.</sub>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
