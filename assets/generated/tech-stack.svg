@@ -143,7 +143,7 @@
         <animate attributeName="stroke" values="#1c3a5c;#38BDF8;#1c3a5c" dur="4.5s" begin="1.00s" repeatCount="indefinite"/>
       </rect>
       <text x="90" y="109" text-anchor="middle" fill="#38BDF8">ORCHESTRATION</text>
-      <text x="165" y="110" fill="#cbd5e1">Docker · Kubernetes · K3s · Linkerd · Helm</text>
+      <text x="165" y="110" fill="#cbd5e1">Docker · Kubernetes · K3s · Helm</text>
     </g>
     
 
@@ -235,7 +235,7 @@
         <animate attributeName="stroke" values="#684a3a;#fbbf24;#684a3a" dur="4.5s" begin="1.80s" repeatCount="indefinite"/>
       </rect>
       <text x="90" y="189" text-anchor="middle" fill="#fbbf24">NETWORKING</text>
-      <text x="165" y="190" fill="#cbd5e1">Traefik · Nginx · cert-manager · TCP/IP · DNS</text>
+      <text x="165" y="190" fill="#cbd5e1">· Nginx · TCP/IP · DNS</text>
     </g>
     
 
@@ -281,7 +281,7 @@
         <animate attributeName="stroke" values="#1c4a3d;#22D3A5;#1c4a3d" dur="4.5s" begin="2.20s" repeatCount="indefinite"/>
       </rect>
       <text x="90" y="229" text-anchor="middle" fill="#22D3A5">OBSERVABILITY</text>
-      <text x="165" y="230" fill="#cbd5e1">Prometheus · Grafana · AlertManager · Datadog · ELK</text>
+      <text x="165" y="230" fill="#cbd5e1">Prometheus · Grafana · ELK</text>
     </g>
     
 
@@ -373,7 +373,7 @@
         <animate attributeName="stroke" values="#1c3a5c;#38BDF8;#1c3a5c" dur="4.5s" begin="3.00s" repeatCount="indefinite"/>
       </rect>
       <text x="90" y="309" text-anchor="middle" fill="#38BDF8">LANG / DATA</text>
-      <text x="165" y="310" fill="#cbd5e1">Python · JavaScript · React · Django · Flask · FastAPI · Bash · MySQL · MongoDB · Redis · Terraform · Ansible</text>
+      <text x="165" y="310" fill="#cbd5e1">Python · Bash · MySQL · MongoDB · Terraform · Ansible</text>
     </g>
     
 
